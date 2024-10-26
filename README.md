@@ -28,6 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
-## Badges 🪶
-[![An image of @psanyalaich's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psanyalaich)](https://holopin.io/@psanyalaich)
-![Postman](https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)
+## Badges
+[![Postman API Badge](https://www.credly.com/badges/your_badge_image_link)](https://www.credly.com/your_badge_link)

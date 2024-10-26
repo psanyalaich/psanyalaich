@@ -30,7 +30,9 @@
 
 ## Badges
 <a href="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw" target="_blank">
-    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw/image" alt="Postman API Fundamentals Student Expert Badge" />
+  <img src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw/image" alt="Postman API Fundamentals Student Expert" width="120px" height="120px">
 </a>
-<p><strong>Postman API Fundamentals Student Expert</strong></p>
+
+**Postman API Fundamentals Student Expert**
+
 

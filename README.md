@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
-## Badges
-[![Postman API Badge](https://www.credly.com/badges/https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)](https://www.credly.com/https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)
+<iframe src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=prisha.aich%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>

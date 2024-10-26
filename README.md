@@ -28,11 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
-## Badges
-<a href="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw" target="_blank">
-  <img src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw/image" alt="Postman API Fundamentals Student Expert" width="120px" height="120px">
-</a>
-
-**Postman API Fundamentals Student Expert**
-
 

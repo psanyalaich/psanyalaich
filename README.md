@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
 ## Badges 🪶
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![An image of @psanyalaich's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psanyalaich)](https://holopin.io/@psanyalaich)
 ![Postman](https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)

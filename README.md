@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
 ## Badges
-[![Postman API Badge](https://www.credly.com/badges/your_badge_image_link)](https://www.credly.com/your_badge_link)
+[![Postman API Badge](https://www.credly.com/badges/https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)](https://www.credly.com/https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw)

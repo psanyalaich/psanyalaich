@@ -29,4 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psanyalaich&show_icons=true&locale=en&theme=dark" alt="psanyalaich" /></p>
 
 ## Badges
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<a href="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw" target="_blank">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw/image" alt="Postman API Fundamentals Student Expert Badge" />
+</a>
+<p><strong>Postman API Fundamentals Student Expert</strong></p>
+

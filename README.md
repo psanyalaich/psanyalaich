@@ -34,3 +34,5 @@
 <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+[![An image of @psanyalaich's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psanyalaich)](https://holopin.io/@psanyalaich)

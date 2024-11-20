@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Prisha Sanyal Aich!</h1>
+<h1 align="left">Hi, I'm Prisha Sanyal-Aich!</h1>
 <h3 align="left">A 2nd year biotech undergrad with an interest in applying ML in biology</h3>
 
 <h3 align="left">Connect with me:</h3>

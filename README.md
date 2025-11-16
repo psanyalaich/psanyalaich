@@ -14,10 +14,10 @@
 
 
 ## 🔬 Upcoming Projects
-- **End-to-End ML Classification Pipeline** (Scikit-Learn)  
-- **CNN Training Pipeline + Transfer Learning** (PyTorch + ResNet)  
-- **Reproducible ML Training System** (config-driven, modular)  
-- **ML Model Deployment Service** (FastAPI + Docker)
+- **[ml-classification-pipeline](https://github.com/psanyalaich/ml-classification-pipeline)**: End-to-end ML workflow (data → training → evaluation → metrics dashboard).
+- **[cnn-training-system](https://github.com/psanyalaich/cnn-training-system)**: PyTorch CNN pipeline + modular training loops + augmentation stack.
+- **[pytorch-training-framework](https://github.com/psanyalaich/pytorch-training-framework)**: Config-driven training system for reproducible ML experiments.
+- **[ml-deployment-service](https://github.com/psanyalaich/ml-deployment-service)**: FastAPI + Docker deployment for inference-ready ML models.
 
 ---
 
